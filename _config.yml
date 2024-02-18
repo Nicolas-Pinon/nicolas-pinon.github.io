@@ -24,7 +24,7 @@ author:
   avatar           : "Moi_IRM.png"
   name             : "Nicolas Pinon"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student. Machine learning for medical imaging"
+  bio              : "PhD student. Machine learning for medical imaging."
   location         : "Lyon"
   employer         : "CREATIS"
   uri              : "https://www.creatis.insa-lyon.fr/site/en" # URL
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=8x2ZwGYAAAAJ&hl=fr"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8817-9911"
-  pubmed           : # rieng
+  creatis           : "https://www.creatis.insa-lyon.fr/site/en" # rieng
   researchgate     : "https://www.researchgate.net/profile/Nicolas-Pinon-2" # URL
 
   # Repositories and software development
