@@ -27,7 +27,7 @@ author:
   bio              : "PhD student. Machine learning for medical imaging."
   location         : "Lyon"
   employer         : "CREATIS"
-  uri              : "https://www.creatis.insa-lyon.fr/site/en" # URL
+  uri              :  # URL
   email            : "nicolas.pinon@creatis.insa-lyon.fr" 
 
   # Academic websites
@@ -135,7 +135,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
@@ -201,7 +201,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:

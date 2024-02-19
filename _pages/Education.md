@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+
+* Ph.D in Signal and Image Processing, INSA Lyon, 2020-2023 (expected)
+* M.S in Mathematics for vision and learning (MVA), ENS Paris-Saclay 2019-2020
+* B.S. and M.S. in Electrical Engineering, ENS Paris-Saclay (scholarship, _"normalien"_), 2016-2020
+* Technical diploma (DUT) in Physical Measurements, Strasbourg University (valedictorian), 2014-2026
 
 Work experience
 ======
