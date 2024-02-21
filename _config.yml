@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nicolas Pinon academic page"
+title                    : "Nicolas Pinon"  #
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : ""
 author:
   # Biographic information
   avatar           : "Moi_IRM.png"
-  name             : "Nicolas Pinon"
+  name             : 
   pronouns         : # example: "she/her"  
   bio              : "PhD student. Machine learning for medical imaging."
-  location         : "Lyon"
+  location         : "Lyon, France"
   employer         : "CREATIS"
   uri              :  # URL
   email            : "nicolas.pinon@creatis.insa-lyon.fr" 
