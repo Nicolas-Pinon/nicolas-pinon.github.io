@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-   
-      
-      
 # Education  
 ### _International version_
 
@@ -29,11 +26,21 @@ redirect_from:
 * Diplôme de l'ENS Paris-Saclay, Electronique Electrotechnique et Automatique (EEA), élève normalien, 2016-2020
 * DUT Mesures physiques, Université de Strasbourg (major), 2014-2016
 
+<br>
+   
 
-Service, others
+Service
 ======
-* [2021-2024] Elected student at the laboratory council
+* 2021-2024 Elected student at the laboratory council
+* Spring 2023: Co-super supervisor of Guillaume Perna master's internship on probability calibration and SVM methods for anomaly detection in neuroimaging.
+* Spring 2022: Co-super supervisor of [Robin Trombetta](https://scholar.google.com/citations?user=r4WVLoMAAAAJ&hl=fr&oi=ao) master's internship on self-supervised representation learning for anomaly detection in industrial images and for Parkinson's disease.
+* 2021-2024: Core member of LIFE (Laboratory Initiative For Environment)
+* 2021-2023: Jury for admission in engineering school ([INSA Lyon](https://www.insa-lyon.fr/en/))
+* 2023: Scientific dissemination among primary school students about sound waves ([Atelier "Trace ton son"](https://www.creatis.insa-lyon.fr/site/fr/animation-scientifique-grand-public-atelier-trace-ton-son))
+* 2022-2023: Internship tutor for 4 undergrad students (_stage ouvrier_)
 
+<br>
+   
 
 Work experience
 ======
@@ -58,15 +65,20 @@ Work experience
   * Research topic: Automatic segmentation of ovaries in MRI (in collaboration with a radiologist)
   * Supervisors: [Isabelle Bloch](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/nos-chercheurs/chercheurs-en-vue/isabelle-bloch), [Pietro Gori](https://perso.telecom-paristech.fr/pgori/)
   
+ <br>
+   
 
 
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.research reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+ 
+<br>
+   
 
 Teaching
 ======
