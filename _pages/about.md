@@ -9,7 +9,7 @@ redirect_from:
 
 PhD student at CREATIS, Lyon, France.  
 My PhD focuses on anomaly detection for neuroimaging, and more specifically representation learning and probability support estimation methods.  
-Applications include white matter hyperintensities detection, epipileptogenic lesion detection, and Parkinson versus healthy classification.   
+Applications include white matter hyperintensities detection, epileptogenic lesion detection, and Parkinson versus healthy classification.   
 
 Expected PhD defense date: 11/04/2024
 
