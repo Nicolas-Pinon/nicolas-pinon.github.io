@@ -31,7 +31,8 @@ redirect_from:
 
 Service
 ======
-* 2021-2024 Elected student at the laboratory council
+* 2024: Reviewer for the MIDL 2024 conference
+* 2021-2024: Elected student at the laboratory council
 * Spring 2023: Co-super supervisor of Guillaume Perna master's internship on probability calibration and SVM methods for anomaly detection in neuroimaging.
 * Spring 2022: Co-super supervisor of [Robin Trombetta](https://scholar.google.com/citations?user=r4WVLoMAAAAJ&hl=fr&oi=ao) master's internship on self-supervised representation learning for anomaly detection in industrial images and for Parkinson's disease.
 * 2021-2024: Core member of LIFE (Laboratory Initiative For Environment)
