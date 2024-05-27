@@ -70,7 +70,7 @@ Work experience
 
 
 
-Publications
+Publications (details [here](/research/))
 ======
   <ul>{% for post in site.research reversed %}
     {% include archive-single-cv.html %}
@@ -80,10 +80,10 @@ Publications
 <br>
    
 
-Teaching
+Teaching (details [here](/teaching/))
 ======
   <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv_teaching.html %}
   {% endfor %}</ul>
   
 
