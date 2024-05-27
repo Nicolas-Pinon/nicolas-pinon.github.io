@@ -14,7 +14,7 @@ redirect_from:
 
 
 * Ph.D in Signal and Image Processing, INSA Lyon, 2020-2024 (expected)
-* M.S in Mathematics for vision and learning, ENS Paris-Saclay 2019-2020
+* M.S in Mathematics for vision and machine learning, ENS Paris-Saclay 2019-2020
 * B.S. and M.S. in Electrical Engineering, ENS Paris-Saclay (scholarship), 2016-2020
 * Technical diploma in Physical Measurements, Strasbourg University (valedictorian), 2014-2016
 
@@ -31,7 +31,8 @@ redirect_from:
 
 Service
 ======
-* 2021-2024 Elected student at the laboratory council
+* 2024: Reviewer for the [MIDL 2024](https://2024.midl.io/) conference 
+* 2021-2024: Elected student at the laboratory council
 * Spring 2023: Co-super supervisor of Guillaume Perna master's internship on probability calibration and SVM methods for anomaly detection in neuroimaging.
 * Spring 2022: Co-super supervisor of [Robin Trombetta](https://scholar.google.com/citations?user=r4WVLoMAAAAJ&hl=fr&oi=ao) master's internship on self-supervised representation learning for anomaly detection in industrial images and for Parkinson's disease.
 * 2021-2024: Core member of LIFE (Laboratory Initiative For Environment)
