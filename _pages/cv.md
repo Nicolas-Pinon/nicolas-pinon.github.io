@@ -13,7 +13,7 @@ redirect_from:
 ### _International version_
 
 
-* Ph.D in Signal and Image Processing, INSA Lyon, 2020-2024 (expected)
+* Ph.D in Signal and Image Processing, INSA Lyon, 2020-2024
 * M.S in Mathematics for vision and machine learning, ENS Paris-Saclay 2019-2020
 * B.S. and M.S. in Electrical Engineering, ENS Paris-Saclay (scholarship), 2016-2020
 * Technical diploma in Physical Measurements, Strasbourg University (valedictorian), 2014-2016
@@ -21,7 +21,7 @@ redirect_from:
 
 ### _French version_
 
-* Doctorat en traitement du signal et des images, INSA Lyon, 2020-2024 (attendu)
+* Doctorat en traitement du signal et des images, INSA Lyon, 2020-2024
 * Master 2 Mathématiques Vision Apprentissage (MVA), ENS Paris-Saclay 2019-2020
 * Diplôme de l'ENS Paris-Saclay, Electronique Electrotechnique et Automatique (EEA), élève normalien, 2016-2020
 * DUT Mesures physiques, Université de Strasbourg (major), 2014-2016
@@ -31,6 +31,7 @@ redirect_from:
 
 Service
 ======
+* 2024: Reviewer for [TMI](https://www.ieeetmi.org/)
 * 2024: Reviewer for the [MIDL 2024](https://2024.midl.io/) conference 
 * 2021-2024: Elected student at the laboratory council
 * Spring 2023: Co-super supervisor of Guillaume Perna master's internship on probability calibration and SVM methods for anomaly detection in neuroimaging.
@@ -45,6 +46,11 @@ Service
 
 Work experience
 ======
+
+* 2024: Post-doc
+  * CREATIS, INSA Lyon, CNRS, Lyon 1, INSERM
+  * Research topic: Weakly supervised learning and domain adaptation for prostate cancer segmentation
+  * Supervisor: [Carole Lartizien](https://www.creatis.insa-lyon.fr/~lartizien/)
 
 * 2020-2024: PhD student
   * CREATIS, INSA Lyon, CNRS, Lyon 1, INSERM
