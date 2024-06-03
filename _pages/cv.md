@@ -34,8 +34,8 @@ Service
 * 2024: Reviewer for [TMI](https://www.ieeetmi.org/)
 * 2024: Reviewer for the [MIDL 2024](https://2024.midl.io/) conference 
 * 2021-2024: Elected student at the laboratory council
-* Spring 2023: Co-super supervisor of Guillaume Perna master's internship on probability calibration and SVM methods for anomaly detection in neuroimaging.
-* Spring 2022: Co-super supervisor of [Robin Trombetta](https://scholar.google.com/citations?user=r4WVLoMAAAAJ&hl=fr&oi=ao) master's internship on self-supervised representation learning for anomaly detection in industrial images and for Parkinson's disease.
+* Spring 2023: Co-supervisor of Guillaume Perna master's internship on probability calibration and SVM methods for anomaly detection in neuroimaging.
+* Spring 2022: Co-supervisor of [Robin Trombetta](https://scholar.google.com/citations?user=r4WVLoMAAAAJ&hl=fr&oi=ao) master's internship on self-supervised representation learning for anomaly detection in industrial images and for Parkinson's disease.
 * 2021-2024: Core member of LIFE (Laboratory Initiative For Environment)
 * 2021-2023: Jury for admission in engineering school ([INSA Lyon](https://www.insa-lyon.fr/en/))
 * 2023: Scientific dissemination among primary school students about sound waves ([Atelier "Trace ton son"](https://www.creatis.insa-lyon.fr/site/fr/animation-scientifique-grand-public-atelier-trace-ton-son))
