@@ -31,6 +31,7 @@ redirect_from:
 
 Service
 ======
+* 2024: Volunteer at [EUSIPCO 2024](https://eusipcolyon.sciencesconf.org/)
 * 2024: Reviewer for [TMI](https://www.ieeetmi.org/)
 * 2024: Reviewer for the [MIDL 2024](https://2024.midl.io/) conference (awarded __outstanding reviewer__)
 * 2021-2024: Elected student at the laboratory council
