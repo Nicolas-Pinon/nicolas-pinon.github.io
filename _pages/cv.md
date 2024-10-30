@@ -33,7 +33,7 @@ Service
 ======
 * 2024: Volunteer at [EUSIPCO 2024](https://eusipcolyon.sciencesconf.org/)
 * 2024: Reviewer for [TMI](https://www.ieeetmi.org/)
-* 2024: Reviewer for the [MIDL 2024](https://2024.midl.io/) conference (awarded [__outstanding reviewer__](https://2024.midl.io/awards))
+* 2024: Reviewer for the [MIDL 2024](https://2024.midl.io/) conference (awarded [outstanding reviewer](https://2024.midl.io/awards))
 * 2021-2024: Elected student at the laboratory council
 * Spring 2023: Co-supervisor of Guillaume Perna master's internship on probability calibration and SVM methods for anomaly detection in neuroimaging.
 * Spring 2022: Co-supervisor of [Robin Trombetta](https://scholar.google.com/citations?user=r4WVLoMAAAAJ&hl=fr&oi=ao) master's internship on self-supervised representation learning for anomaly detection in industrial images and for Parkinson's disease.
