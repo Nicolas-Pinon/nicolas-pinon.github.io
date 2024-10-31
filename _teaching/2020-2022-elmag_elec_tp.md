@@ -9,7 +9,7 @@ date_e: 2022-04-01
 location: ""
 ---
 
-Undergraduate practial course about electricity and electromagnetism. Analysis of basic electricity circuits, filters, Fourier analysis, oscilloscope usage. Analysis of electric and magnetic fields, modelisation with the Mawell's equations.
+Undergraduate practial course about electricity and electromagnetism. Analysis of basic electricity circuits, filters, Fourier analysis, oscilloscope usage. Analysis of electric and magnetic fields, modelisation with the Maxwell's equations.
 
 Everything that is not in the first paragraph will not be shown
 
