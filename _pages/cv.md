@@ -68,7 +68,7 @@ Work experience
   * Research topic: Automatic detection of symmetry axes in spinal cord MRI to improve registration robustness
   * Supervisor: [Julien Cohen-Adad](http://neuro.polymtl.ca/team/faculty/julien-cohen-adad.html)
 
-* Spring 2017: Research intern
+* Spring 2018: Research intern
   * LTCI, Telecom Paris
   * Research topic: Automatic segmentation of ovaries in MRI (in collaboration with a radiologist)
   * Supervisors: [Isabelle Bloch](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/nos-chercheurs/chercheurs-en-vue/isabelle-bloch), [Pietro Gori](https://perso.telecom-paristech.fr/pgori/)
