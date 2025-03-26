@@ -3,7 +3,7 @@ To run locally website : jekyll serve -l -H localhost
 
 _data/navigation.yml has the clickable titles on top of the pages
 images/ some images useful somewhere
-_confi.yml has the left-side info present on all pages
+_config.yml has the left-side info present on all pages
 
 _includes/archive-single-cv.html  -> formating used for the publications in the "cv" page
 _includes/archive-single-cv_teaching.html -> formating used for the teaching in the "cv" page
