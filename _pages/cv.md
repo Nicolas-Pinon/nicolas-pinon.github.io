@@ -32,7 +32,7 @@ redirect_from:
 
 Service
 ======
-* 2025: Reviewer for the [MIDL 2024](https://2025.midl.io/) conference
+* 2025: Reviewer for the [MIDL 2025](https://2025.midl.io/) conference
 * 2025: Reviewer for [TMI](https://www.ieeetmi.org/)
 * 2024: Volunteer at [EUSIPCO 2024](https://eusipcolyon.sciencesconf.org/)
 * 2024: Reviewer for [TMI](https://www.ieeetmi.org/)
