@@ -8,7 +8,7 @@ Results demonstrate performance and robustness of our proposed model, highlighti
 date: 2025-07-17
 venue: 'Preprint, submitted to IEEE Transaction on Image Processing'
 paperurl: 
-citation: '<b>Nicolas Pinon</b>, Carole Lartizien (2025). &quot;OCSVM-Guided Representation Learning for Unsupervised Anomaly Detection.&quot; <i>Preprint, submitted to IEEE Transaction on Image Processing'</i>.'
+citation: '<b>Nicolas Pinon</b>, Carole Lartizien (2025). &quot;OCSVM-Guided Representation Learning for Unsupervised Anomaly Detection.&quot; <i>Preprint, submitted to IEEE Transaction on Image Processing</i>.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
