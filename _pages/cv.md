@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF, more detailed version (08/2025) is also available ([here](/files/CV_qualif_en_updated_PINON.pdf))
+
 # Education  
 ### _International version_
 
