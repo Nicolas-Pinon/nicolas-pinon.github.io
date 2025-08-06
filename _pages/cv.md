@@ -51,7 +51,7 @@ Service
 Work experience
 ======
 
-* 2024: Post-doc
+* 2024: Research engineer
   * CREATIS, INSA Lyon, CNRS, Lyon 1, INSERM
   * Research topic: Weakly supervised learning and domain adaptation for prostate cancer segmentation
   * Supervisor: [Carole Lartizien](https://www.creatis.insa-lyon.fr/~lartizien/)
