@@ -63,7 +63,7 @@ Work experience
 
 * Spring 2020: Research intern
   * CREATIS, INSA Lyon, CNRS, Lyon 1, INSERM
-  * Research topic: U-net-like algorithms for motion mask segmentation on chest CT-scans (cancerous and COVID)
+  * Research topic: Multi-planar U-Net for motion mask segmentation on abdominal CT scans (cancerous and COVID-19 cases)
   * Supervisors: [Emmanuel Roux](https://www.creatis.insa-lyon.fr/~roux/), [Maciej Orkisz](https://www.creatis.insa-lyon.fr/site/fr/users/orkisz)
 
 * 2018-2019: Research intern
