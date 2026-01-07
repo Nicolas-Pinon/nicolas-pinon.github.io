@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+You are on the professional webpage of Nicolas Pinon, PhD in image processing. My research interests are machine learning (especially anomaly detection) and medical applications (especially medical imaging).    
 
-Post-doc researcher on machine learning for medical imaging.  
 My PhD subject was on anomaly detection for neuroimaging, and more specifically representation learning and probability support estimation methods. Applications include white matter hyperintensities detection, epileptogenic lesion detection, and Parkinson versus healthy classification.   
 
-Currently in a professional break, in search of a post-doc for Autumn/Winter 2025, feel free to contact me at : nicolas.e.pinon at laposte.net.  
-
-Je viens d'être qualifié en section 61 et 27 !
+I'm searching for a post-doc for 2026, feel free to contact me at : nicolas.e.pinon at laposte.net.  
 
 
-<img src="/images/IDA_Pinon_2023_bis.png" height="45%" width="45%"/>
+<img src="/images/IDA_Pinon_2023_bis.png" height="45%" width="45%"/>  <img src="/images/detecano_neuroimaging_v2.png" height="45%" width="45%"/>
 
