@@ -14,5 +14,8 @@ My PhD subject was on anomaly detection for neuroimaging, and more specifically 
 I'm searching for a post-doc for 2026, feel free to contact me at : nicolas.e.pinon at laposte.net.  
 
 
-<img src="/images/IDA_Pinon_2023_bis.png" height="45%" width="45%"/>  <img src="/images/detecano_neuroimaging_v2.png" height="45%" width="45%"/>
+<div style="display: flex; gap: 40px; align-items: center;">
+  <img src="/images/IDA_Pinon_2023_bis.png" width="45%" />
+  <img src="/images/detecano_neuroimaging_v2.png" width="45%" />
+</div>
 
