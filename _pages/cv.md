@@ -34,6 +34,7 @@ A PDF, more detailed version (08/2025) is also available [here](/files/CV_qualif
 
 Service
 ======
+* 2026: Reviewer for [MELBA](https://www.melba-journal.org/)
 * 2026: Reviewer for the [MIDL 2026](https://2026.midl.io/) conference
 * 2025: Reviewer for the [MIDL 2025](https://2025.midl.io/) conference
 * 2025: Reviewer for [TMI](https://www.ieeetmi.org/)
