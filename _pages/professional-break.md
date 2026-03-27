@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /professional-break/
-title: "Professional Break"
+title: ""
 author_profile: false
 ---
 
