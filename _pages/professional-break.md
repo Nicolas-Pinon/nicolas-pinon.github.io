@@ -11,5 +11,4 @@ author_profile: false
     <img src="/images/pro-break.jpeg" alt="Professional break" style="max-width: 60%; height: auto; border-radius: 8px;" />
     <p><em>Me with the books I read during my professional break !</em></p>
 </div>
-
 [← Back to homepage](/)
