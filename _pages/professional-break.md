@@ -8,11 +8,9 @@ author_profile: false
 {% include base_path %}
 
 ## Professional Break
-
-Here's information about my professional break.
-
+Me with the books I read during my professional break !
 <div style="text-align: center; margin-top: 2rem;">
-    <img src="/images/IDA_Pinon_2023_bis.png" alt="Professional break" style="max-width: 80%; height: auto; border-radius: 8px;" />
+    <img src="/images/pro-break.png" alt="Professional break" style="max-width: 80%; height: auto; border-radius: 8px;" />
     <p><em>TBD</em></p>
 </div>
 
