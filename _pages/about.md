@@ -16,6 +16,6 @@ Feel free to contact me at : nicolas.e.pinon at laposte.net if you want to discu
 
 <div style="display: flex; gap: 40px; align-items: center;">
   <img src="/images/IDA_Pinon_2023_bis.png" width="45%" />
-  <img src="/images/detecano_neuroimaging_v2_downsampled" width="45%" />
+  <img src="/images/detecano_neuroimaging_v2_downsampled.png" width="45%" />
 </div>
 
