@@ -24,7 +24,7 @@ Feel free to contact me at : nicolas.e.pinon at laposte.net if you want to discu
 <style>
 a.professional-break-link {
     color: inherit;
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.professional-break-link:hover {
     text-decoration: underline;
