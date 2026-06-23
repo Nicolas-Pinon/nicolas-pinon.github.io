@@ -43,6 +43,11 @@ Service
 Work experience
 ======
 
+* 2026-: Postdoctoral researcher
+  * RoeffaersLab, KU Leuven
+  * Research topic: Segmentation and classification of microplastics in fluoresence microscopy
+  * Supervisor: [Maarten Roeffaers]https://www.roeffaers-lab.org/
+
 * 2024: Research engineer
   * CREATIS, INSA Lyon, CNRS, Lyon 1, INSERM
   * Research topic: Hybridization of prostate cancer detection models
