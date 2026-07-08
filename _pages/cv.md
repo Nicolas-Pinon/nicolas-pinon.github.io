@@ -23,6 +23,7 @@ Education
 
 Service
 ======
+* 2026: Reviewer for [TMLR](https://jmlr.org/tmlr/)
 * 2026: Reviewer for [TMI](https://www.ieeetmi.org/)
 * 2026: Reviewer for [MELBA](https://www.melba-journal.org/)
 * 2026: Reviewer for the [MIDL 2026](https://2026.midl.io/) conference
