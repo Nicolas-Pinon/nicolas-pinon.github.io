@@ -9,9 +9,9 @@ redirect_from:
 
 You are on the professional webpage of Nicolas Pinon, post-doctoral researcher. My research interests are image processing (especially medical images), machine learning (especially anomaly detection) and their many applications !
 
-After my studies in Strasbourg and Paris, I completed my PhD under the supervision of [Carole Lartizien](https://www.creatis.insa-lyon.fr/~lartizien/) at the CREATIS Lab in Lyon, my PhD subject was anomaly detection for neuroimaging, and more specifically representation learning and probability support estimation methods. Applications include white matter hyperintensities detection, epileptogenic lesion detection, and Parkinson versus healthy classification. I am now a post-doctoral researcher at [Maarten Roeffaers lab](https://www.roeffaers-lab.org/) working on segmentation and classification of microplastics in microscopy images.
+After my studies in Strasbourg and Paris, I completed my PhD under the supervision of [Carole Lartizien](https://www.creatis.insa-lyon.fr/~lartizien/) at the CREATIS Lab in Lyon, my PhD subject was anomaly detection for neuroimaging, and more specifically representation learning and probability support estimation methods. Applications include white matter hyperintensities detection, epileptogenic lesion detection, and Parkinson versus healthy classification. I am now a post-doctoral researcher at [Maarten Roeffaers lab](https://www.roeffaers-lab.org/) working on chemometrics and machine learning for microplastics detection and classification on microscopy images.
 
-Feel free to contact me at : nicolas.e.pinon at laposte.net if you want to discuss my research, or for any collaboration opportunities, especially in the Brussels/Leuven area !
+Feel free to contact me at : nicolas.pinon at kuleuven.be if you want to discuss my research, or for any collaboration opportunities, especially in the Brussels/Leuven area !
 
 
 <div style="display: flex; gap: 40px; align-items: center;">
